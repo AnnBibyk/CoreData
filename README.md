@@ -3,7 +3,7 @@ iOS Bootcamp Day08 at UNIT Factory (Ecole42)
 
 ## Description
 
-Creation of my own pod that will be used in the next prolect (PersonalDiary). The pod was made to simplify the process of making the notes (articles)
+Creation of my own pod that will be used in the next project (PersonalDiary). The pod was made to simplify the process of making the notes (articles)
 
 ## Usage
 
